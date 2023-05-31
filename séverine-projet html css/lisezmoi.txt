@@ -1,0 +1,39 @@
+Dans index.html
+
+navbar:
+
+class:container-fluid pour toutre la navbar
+class:navbar-toggler,collapse pour tous les boutons
+class:nav-link pour les a des menus
+
+main:
+
+id:logo-zoo-beauval pour déplacer que le logo de beauval
+id:logo zoo de paris pour déplacer que le logo concerner
+id:logo le pal pour déplacer que le logo concerner
+
+page 1, 2 ,3
+
+section:
+
+class:clearfix pour que l'image soit fixe
+class:ilg-fluid col-md6 float-sm-end mb-3 ms-md-3 pour que l'image soit à droite et que le texte soit à gauche de l'écran
+
+ul:
+
+class:text-center pour que le texte soit au milieu de l'écran ainsi que l'image.
+
+table:
+
+class:class définis par boodstrap pour effectuer un tableau
+class:table pour chaque ligne de chaque colonne
+class:table-group-divider pour chaque ligne de renseignement du tableau
+scope:row pour le chiffre de départ pour chaque ligne
+
+footer:
+
+id:police pour changer la police de cette élément dans chaque page
+
+les sources de ces sites sont les sites officiel de chaque site de zoo ainsi que TripAdvisor pour la pluspart des classements comme celui de la page d'accueil de la page 1,2 et pParcs de France pour le tableau de la troisème pages.
+
+

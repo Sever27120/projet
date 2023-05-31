@@ -1,0 +1,41 @@
+{
+    "Name": "Chez Mario et Luigi",
+    "Slogan": "Pizzaïolo de père en fils",
+    "Pizzas": [
+        {
+            "Nom": "La cheese ",
+            "Image": "https://www.cuisineactuelle.fr/imgre/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcac.2F2018.2F09.2F25.2F40800e00-0bd2-46df-a680-e69d62001fdf.2Ejpeg/750x562/quality/80/crop-from/center/cr/wqkgUm91bGllci1UdXJpb3QvIFN1Y3LDqSBTYWzDqSAvIEN1aXNpbmUgQWN0dWVsbGU%3D/pizza-aux-4-fromages.jpeg",
+            "Prix": "12.90 euros ",
+            "Ingredients": [
+                "Feta",
+                "Bleu",
+                "Mozza",
+                "Parmesan",
+                "Raclette",
+                "Camembert",
+                "Asiago"
+            ]
+        },
+        {
+            "Nom": "La chêvre miel",
+            "Image": "https://www.herta.fr/sites/default/files/styles/s_c_1024_712/public/2022-07/pizza-che%CC%80vre-miel-%284%29.jpg.webp?itok=okRAEAel",
+            "Prix": "15.90 euros ",
+            "Ingredients": [
+                "crème",
+                "Miel",
+                "chêvre",
+                "noix"
+            ]
+        },
+        {
+            "Nom": "La margarita",
+            "Image": "https://www.herta.fr/sites/default/files/styles/s_c_1024_712/public/2022-07/pizza-margherita.jpg.webp?itok=ZGmqprO-",
+            "Prix": "13.90 euros ",
+            "Ingredients": [
+                "tomate",
+                "basilic",
+                "Mozza"
+            ]
+        }
+    ]
+}

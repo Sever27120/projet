@@ -1,0 +1,134 @@
+body{
+  font-family:'Vast Shadow', cursive;
+}
+
+
+.video{
+    width: 100%;
+    position:fixed;
+    top: -225px;
+    z-index:-70;
+    left:0px;
+    bottom:50px;
+}
+
+section{
+    width: 50%;
+    color:white;
+    text-align: justify; 
+    top:150px;
+    left:20px;
+    z-index: 1; 
+    position:relative;
+    
+}
+
+
+
+h3{
+    text-decoration:underline;
+    font-size: 30px;
+    margin-left: 40px;
+    
+}
+li{
+    margin-left: 50px;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 50px;
+ 
+}   
+
+.carte{
+    width: 50%;
+    position:absolute;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;  
+    z-index: -20px; 
+}
+
+
+
+#logo-zoo-beauval
+{
+    position:absolute;
+    bottom:500px;
+    left:1100px;
+  
+}
+
+#logo-zoo-de-Paris
+{
+    position:absolute;
+    bottom: 200px;
+    left: 1500px;
+}
+
+#logo-zoo-le-pal
+{
+    position:absolute;
+    left:1100px;
+    bottom:0px;
+    
+}
+
+@media screen and (max-width: 900px)
+{
+<<<<<<< HEAD
+
+  h3,p,h2{
+    font-size: medium;
+  }
+  main{
+    display:none;
+  }
+=======
+  section{
+    
+    flex-direction: row;
+  }
+  main{
+    display:block;
+   }
+>>>>>>> a38a08c4dd40e390cd12e423a64ab5d2bba1641c
+
+  li{
+    font-size:20px;
+  }
+}
+
+@media screen and (max-width: 576px)
+{
+<<<<<<< HEAD
+   img{
+    margin-left:50px;
+    width: 300px;
+   }
+    section{
+       margin-top:150px;
+      left:50px;
+    }
+
+    h3,li{
+      font-size:50px;
+    }
+
+    .img-fluid{
+
+      margin-left:0px;
+    }
+
+    main{
+      display:none
+    }
+
+  
+
+    
+  }
+=======
+   
+  
+>>>>>>> a38a08c4dd40e390cd12e423a64ab5d2bba1641c
+}
